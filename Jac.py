@@ -162,11 +162,11 @@ def main_apv():
         time.sleep(3.5)
         tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
 
-        os.system('am start https://wa.me/+92188049915?text=' + tks)
+        os.system('am start https://wa.me/+8801757254284?text=' + tks)
 
         
 
-    r1=requests.get("https://github.com/R1F4T-2-0/Test/blob/main/Test.txt").text
+    r1=requests.get("https://github.com/Jack-HaXor/HaKB023/blob/main/Jack.txt").text
 
     if key1 in r1:
 
@@ -189,7 +189,7 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
 
-        os.system('am start https://wa.me/+8801735787710?text=' + tks)
+        os.system('am start https://wa.me/+8801757254284?text=' + tks)
 
 logo ="""          \033[1;37m____ \033[1;32m                      \033[1;37m____   
           \033[1;37m(  __)\033[1;35m═════════════════════\033[1;37m(__  )  
@@ -600,7 +600,7 @@ class __xxx__:
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/+8801735787710")
+	os.system("xdg-open https://wa.me/+8801757254284")
 	time.sleep(3)
 	R()
 def yt():

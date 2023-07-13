@@ -162,7 +162,7 @@ def main_apv():
         time.sleep(3.5)
         tks = 'Dear%20Admin,%20Please%20Approved%20My%20Token%20To%20Premium%20% 20% 20%20%20My%20%20Key%20%20:%20'+ak+''+myid+''+imt
 
-        os.system('am start https://wa.me/01757254284?text=' + tks)
+        os.system('am start https://wa.me/+8801757254284?text=' + tks)
 
         
 
@@ -189,7 +189,7 @@ def main_apv():
 
         tks = 'Dear%20Admin,%20Please%20Apporved%20My%20Key%20To%20Premium✓✓%20%20%20%20%20My%20%20Key%20%20:%20'+ak+''+key1
 
-        os.system('am start https://wa.me/01757254284/?text=' + tks)
+        os.system('am start https://wa.me/+8801757254284/?text=' + tks)
 
 logo ="""          \033[1;37m
 
@@ -228,10 +228,10 @@ def R():
 			print(logo)
 			print ('༄•───────────────────────────────────────•༄')
 			print("\033[1;93m{1}\033[1;92m ➟ \033[1;95mSTART FILE CRACKING  : BST METHOD")
-			print("\033[1;93m{ }\033[1;94m ➟ \033[1;94mPUBLICK AC CRACKING  : NO LOGIN😓")
-			print("\033[1;93m{ }\033[1;95m ➟ \033[1;93mUNLIMITED FILEMAKING : NO LOGIN😓")
-			print("\033[1;93m{ }\033[1;96m ➟ \033[1;92mRANDOM AC CRACKING   : NO LOGIN😓")
-			print("\033[1;93m{4}\033[1;97m ➟ \033[1;91mFOLLEW MY FACEBOOK  PAG : 😽")
+			print("\033[1;93m{2 }\033[1;94m ➟ \033[1;94mPUBLICK AC CRACKING  : NO LOGIN😓")
+			print("\033[1;93m{ 3}\033[1;95m ➟ \033[1;93mUNLIMITED FILEMAKING : NO LOGIN😓")
+			print("\033[1;93m{ 4}\033[1;96m ➟ \033[1;92mRANDOM AC CRACKING   : NO LOGIN😓")
+			print("\033[1;93m{5}\033[1;97m ➟ \033[1;91mFOLLEW MY FACEBOOK  PAG : 😽")
 			print ('\033[1;92m༄•───────────────────────────────────────•༄')
 			key = input(" [*] Choose : ")
 			print ('༄•───────────────────────────────────────•༄')
@@ -604,7 +604,7 @@ class __xxx__:
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/01757254284")
+	os.system("xdg-open https://wa.me/+8801757254284")
 	time.sleep(3)
 	R()
 def yt():

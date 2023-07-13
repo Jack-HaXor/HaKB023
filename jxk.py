@@ -604,7 +604,7 @@ class __xxx__:
 
 def dupcutter():
 
-	os.system("xdg-open https://wa.me/+601757254284")
+	os.system("xdg-open https://wa.me/01757254284")
 	time.sleep(3)
 	R()
 def yt():
